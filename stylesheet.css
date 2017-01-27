@@ -18,5 +18,22 @@ h3 {
 }
 
 p {
-    
+
+}
+
+.para_start {
+    color: #FF6919;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
+
+.left_align {
+    float: left;
+}
+
+.right_align {
+    float: right;
 }

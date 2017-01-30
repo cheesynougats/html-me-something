@@ -4,17 +4,19 @@ body {
 }
 
 article {
-    font-size: 1em;
+    font-size: 1.5em;
+    margin: 25px 25px 25px 25px;
+    padding: 10px 10px 10px 10px;
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 2.5em;
     color: #0200FF;
     font-family: Georgia, serif;
 }
 
 h3 {
-    font-size: 1.5em;
+    font-size: 2em;
     color: #0200FF;
 }
 
@@ -28,8 +30,8 @@ p {
 }
 
 img {
-    height: 150px;
-    width: 150px;
+    height: 125px;
+    width: 125px;
 }
 
 .left_align {
@@ -43,5 +45,6 @@ img {
 #final {
     font-weight: bold;
     font-size: 1.5em;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
 }

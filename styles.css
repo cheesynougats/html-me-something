@@ -1,6 +1,6 @@
 body {
     background-color: #f2f2ed;
-    font-family: Arial;
+    font-family: Verdana, sans-serif;;
 }
 
 article {
@@ -10,6 +10,7 @@ article {
 h1 {
     font-size: 2em;
     color: #0200FF;
+    font-family: Georgia, serif;
 }
 
 h3 {
@@ -18,11 +19,12 @@ h3 {
 }
 
 p {
-
+    padding-bottom: 25px;
 }
 
 .para_start {
     color: #FF6919;
+    font-weight: bold;
 }
 
 img {
@@ -36,4 +38,10 @@ img {
 
 .right_align {
     float: right;
+}
+
+#final {
+    font-weight: bold;
+    font-size: 1.5em;
+    margin: auto;
 }
